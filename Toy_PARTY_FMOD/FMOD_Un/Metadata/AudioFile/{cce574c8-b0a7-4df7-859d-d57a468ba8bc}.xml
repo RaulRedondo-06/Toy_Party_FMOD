@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{cce574c8-b0a7-4df7-859d-d57a468ba8bc}">
+		<property name="assetPath">
+			<value>Funk Game Loop – Kevin MacLeod (No Copyright Music).mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>56.659591836734691</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7bcd6721-37bb-4bb0-b477-ae5b28dc6706}</destination>
+		</relationship>
+	</object>
+</objects>
