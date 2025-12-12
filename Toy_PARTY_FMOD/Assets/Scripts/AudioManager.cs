@@ -105,7 +105,7 @@ public class AudioManager : MonoBehaviour
 
     public void ResumeBGM()
     {
-        bgmMusic.setPaused(true);
+        bgmMusic.setPaused(false);
     }
 
     private void VCA_Controller(bool show)
